@@ -68,3 +68,26 @@ nav a:hover {
   margin: 0 15px 15px 0;
   border-radius: 8px;
 }
+
+.project {
+  margin-top: 20px;
+  padding: 15px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  background-color: #fafafa;
+  text-align: left;
+}
+
+.project h3 {
+  margin-top: 0;
+  color: #007acc;
+}
+
+.project p a {
+  color: #007acc;
+  text-decoration: none;
+}
+
+.project p a:hover {
+  text-decoration: underline;
+}
