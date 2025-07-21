@@ -60,3 +60,11 @@ nav a:hover {
 .tagline {
         font-size: 1.25rem;
 }
+
+.about-photo {
+  float: left;
+  width: 120px;
+  height: auto;
+  margin: 0 15px 15px 0;
+  border-radius: 8px;
+}
